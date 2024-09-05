@@ -2,12 +2,9 @@
   "posts": [
     {
       "id": 1,
-      "name": "Whopper",
-      "description": "Pão com gergelim, maionese, alface, tomate, cebola, ketchup, picles, queijo derretido e um suculento hambúrguer de pura carne bovina. Todos esses ingredientes são cuidadosamente armazenados e preparados, para você se deliciar com um sanduíche fresquinho e de alta qualidade. Imagem meramente ilustrativa.",
-      "value" : 29.99,
-      "images": [
-          "https://d3sn2rlrwxy0ce.cloudfront.net/_800x600_crop_center-center_none/whopper-thumb_2021-09-16-125319_mppe.png?mtime=20210916125320&focal=none&tmtime=20240612010000"
-      ]
+      "title": "Whopper",
+      "value": 49.99,
+      "description:" : "Pão com gergelim, maionese, alface, tomate, cebola, ketchup, picles, queijo derretido e um suculento hambúrguer de pura carne bovina. Todos esses ingredientes são cuidadosamente armazenados e preparados, para você se deliciar com um sanduíche fresquinho e de alta qualidade. Imagem meramente ilustrativa."
     },
     {
       "id": 2,
